@@ -22,5 +22,15 @@
     align-items: flex-start;
     
  2.bootstrap框架中有哪些重要的知识点？
- 
+ 　#2.1 栅格选项
+
+　　Bootstrap 网格系统如何跨多个设备工作：
+
+　　1.clo-xs-* (超小设备手机 <768px) 
+    
+    2.col-sm-* (小型设备平板和电脑>=768px)
+
+　　3.clo-md-* (中型设备台式电脑>=992px)
+  
+    4.col-sm-* (大型设备台式电脑>=1200px)
  
