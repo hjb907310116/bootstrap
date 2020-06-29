@@ -49,5 +49,6 @@ Bootstrap 网格系统如何跨多个设备工作：
 
 4.col-sm-* (大型设备台式电脑>=1200px)
       
-<font color=#ff0000 size=72>color=#00ffff</font>    
+
+<font color=gray size=72>color=gray</font>
  
