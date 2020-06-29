@@ -33,9 +33,10 @@
 4.maxiumum-scale=1.0;表示最大缩放比较；
 
 5.user-scalable=no;表示用户是否可以调整缩放比例；
- 　#2.1 栅格选项
 
-　　Bootstrap 网格系统如何跨多个设备工作：
+#2.1 栅格选项
+
+Bootstrap 网格系统如何跨多个设备工作：
 
 1.clo-xs-* (超小设备手机 <768px) 
     
