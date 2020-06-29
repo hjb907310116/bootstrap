@@ -3,7 +3,7 @@
 
 重点的代码说明：
 
-1.重点的css:
+# 1.重点的css:
 
     /*弹性盒子*/
     
@@ -21,8 +21,8 @@
     
     align-items: flex-start;
     
- 2.bootstrap框架中有哪些重要的知识点？
- #2.0声明viewport视口，<meta name="viewport" content="width=device-width">;
+ # 2.bootstrap框架中有哪些重要的知识点？
+ 2.0声明viewport视口，<meta name="viewport" content="width=device-width">;
 
 1.width=device-width;表示宽度是设备屏幕的宽度；
 
@@ -34,7 +34,7 @@
 
 5.user-scalable=no;表示用户是否可以调整缩放比例；
 
-#2.1 栅格选项
+2.1 栅格选项
 
 Bootstrap 网格系统如何跨多个设备工作：
 
