@@ -22,7 +22,10 @@
     align-items: flex-start;
     
  # 2.bootstrap框架中有哪些重要的知识点？
- 2.0声明viewport视口，<meta name="viewport" content="width=device-width">;
+ 
+ 2.0声明viewport视口
+ 
+ <meta name="viewport" content="width=device-width">;
 
 1.width=device-width;表示宽度是设备屏幕的宽度；
 
@@ -46,5 +49,5 @@ Bootstrap 网格系统如何跨多个设备工作：
 
 4.col-sm-* (大型设备台式电脑>=1200px)
       
-      
+<font color=#00ffff size=72>color=#00ffff</font>    
  
